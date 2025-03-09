@@ -1,1 +1,1 @@
-A folder for graphic image with text 
+A folder for graphic images with text 
