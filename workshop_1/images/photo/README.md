@@ -1,1 +1,1 @@
-A folder for screenshots
+A folder for photos
