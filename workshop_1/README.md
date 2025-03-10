@@ -10,3 +10,9 @@
 
 Фото:
 ![Оригінал](images/photo/photo.jpeg)
+
+Скриншот:
+![Скриншот](images/screenshot/screenshot.png)
+
+Графічне зображення з текстом:
+![Графічне зображення з текстом](images/GI/graphic.jpg)
