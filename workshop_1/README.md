@@ -8,3 +8,5 @@
 | screenshot.png | PNG | 1072x552 | 600 |
 | graphic.jpg | JPG | 626x417 | 129 |
 
+Фото:
+(images/photo/photo.jpeg)
