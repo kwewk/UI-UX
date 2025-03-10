@@ -9,4 +9,4 @@
 | graphic.jpg | JPG | 626x417 | 129 |
 
 Фото:
-(images/photo/photo.jpeg)
+![Оригінал](images/photo/photo.jpeg)
