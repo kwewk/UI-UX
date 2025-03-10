@@ -15,4 +15,4 @@
 ![Скриншот](images/screenshot/screenshot.png)
 
 Графічне зображення з текстом:
-![Графічне зображення з текстом](images/GI/graphic.jpg)
+![Графічне зображення з текстом](images/GI/graphic.jpg)\
