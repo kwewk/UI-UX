@@ -16,3 +16,11 @@
 
 **Графічне зображення з текстом:**  
 ![Графічне зображення з текстом](images/GI/graphic.jpg)  
+
+
+## Стиснення без втрати якості (lossless)
+**Фото у форматі PNG (lossless)**
+![Фото](images/photo/photo_lossless.png)
+
+**Фото у форматі WebP (lossless)**
+<img src="images/photo/photo_lossless.webp" alt="Фото у форматі WebP (lossless)" width="400">
