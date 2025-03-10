@@ -8,11 +8,11 @@
 | screenshot.png | PNG | 1072x552 | 600 |
 | graphic.jpg | JPG | 626x417 | 129 |
 
-Фото:
-![Оригінал](images/photo/photo.jpeg)
+**Фото:**  
+![Оригінал](images/photo/photo.jpeg)  
 
-Скриншот:
-![Скриншот](images/screenshot/screenshot.png)
+**Скриншот:**  
+![Скриншот](images/screenshot/screenshot.png)  
 
-Графічне зображення з текстом:
-![Графічне зображення з текстом](images/GI/graphic.jpg)\
+**Графічне зображення з текстом:**  
+![Графічне зображення з текстом](images/GI/graphic.jpg)  
