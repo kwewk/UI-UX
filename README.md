@@ -1,2 +1,2 @@
 # UI-UX
-Image Optimization with Squoosh
+UI/UX Tasks
