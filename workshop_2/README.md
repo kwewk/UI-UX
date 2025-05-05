@@ -46,7 +46,8 @@
  
 ## Створення градієнту на основі зображення (Extract Gradient)
 - **Gradient:**
+- ![Gradient](images/Theme-Gradient.png)
 - ***Настрій:*** легкий, невимушений, приємний для ока
 
 ## Аналіз контрасту (Accessibility Tools)
-[Accessibility](images/Coef.png)
+![Accessibility](images/Coef.png)
