@@ -51,3 +51,5 @@
 
 ## Аналіз контрасту (Accessibility Tools)
 ![Accessibility](images/Coef.png)
+
+## Висновок
